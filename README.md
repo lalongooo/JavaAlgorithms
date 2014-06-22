@@ -3,7 +3,7 @@ Java Algorithms
 
  This is my own implementation of a variety Java Algorythms.
 
- V 1.0.1
+ V 1.0.2
 -----------
 -- Added the brackets validation in a given string.
 
