@@ -5,6 +5,10 @@ Java Algorithms
 
  V 1.0.1
 -----------
+-- Added the brackets validation in a given string.
+
+ V 1.0.1
+-----------
 -- Added a faster implementation for the calculation of prime numbers.
 
  V 1.0.0
