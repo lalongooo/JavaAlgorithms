@@ -1,7 +1,7 @@
 Java Algorithms
 =============
 
- This is my own implementation of a variety Java Algorythms.
+ This is my own implementation of a variety Java Algorithms.
 
  V 1.0.2
 -----------
